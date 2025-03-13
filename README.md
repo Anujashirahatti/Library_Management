@@ -16,9 +16,9 @@ also calculates fine for the late returns.The admin can add, delete,and display 
 * Exit System: Allows the admin to quit the program.
 
 # Techical Details
-*Programming language : Python
-*Module Used: datetime,timedelta
-*Data Storage:Uses Dictionaries(self.books and self.issued_books)
-*Fine Calculation:50 per day for late returns
+* Programming language : Python
+* Module Used: datetime,timedelta
+* Data Storage:Uses Dictionaries(self.books and self.issued_books)
+* Fine Calculation:50 per day for late returns
 
 
